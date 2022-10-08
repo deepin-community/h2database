@@ -1,0 +1,5 @@
+01-use-jar-files-from-debian.patch
+03-osgi-compatibility.patch
+04-reproducible-javadoc.patch
+TestCrashAPI.patch
+06-lucene-compatibility.patch
